@@ -1,0 +1,54 @@
+input{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.first,
+.sec{
+    text-align: center;
+    width: 100px;
+    height: 22px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border-width: 1px;
+}
+.third{
+    display: block;
+    text-align: center;
+    width: 210px;
+    height: 22px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border-width: 1px;
+}
+.fourth{
+    background-color: blue;
+    color: whitesmoke;
+    text-align: center;
+    width: 220px;
+    height: 28px;
+    border-radius: 6px;
+    border: none;
+}
+.pic{
+    display: block;
+}
+.dv1{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-color: red;
+}
+.div2{
+    display: inline-block;
+    width: 200px;
+    height: 310px;
+    box-shadow: 2px 2px rgb(150, 147, 147);
+    border-radius: 3px;
+    vertical-align: top;
+    margin-right: 6px;
+}
+.twitter{
+    border: none;
+    height: 10px;
+    border-style: groove;
+}
